@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.dropbox.com/s/xh659kz7cmg4z0z/%20iOS%20Diags%201.3.1.ipa</string>
+					<string>http://earoa.com/wp-content/uploads/2014/03/%20iOS%20Diags%201.3.1.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -22,8 +22,6 @@
 				<string>1.3.1</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>subtitle</key>
-				<string>iOS Diagnostics</string>
 				<key>title</key>
 				<string>iOS Diagnostics</string>
 			</dict>
