@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://earoa.com/wp-content/uploads/2014/03/%20iOS%20Diags%201.3.1.ipa</string>
+					<string>Nice try</string>
 				</dict>
 			</array>
 			<key>metadata</key>
